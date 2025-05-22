@@ -1,6 +1,6 @@
 # My first Gauge LVGL9
 
-Uses examples from [Waveshare](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-2.1/ESP32-S3-Touch-LCD-2.1-Demo.zip) and [GarageTinkering](https://github.com/garagetinkering/my-first-gauge)
+Combines drivers from [Waveshare](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-2.1/ESP32-S3-Touch-LCD-2.1-Demo.zip) and [GarageTinkering](https://github.com/garagetinkering/my-first-gauge)
 
 ## Notes
 
